@@ -1,0 +1,29 @@
+{
+  "name": "tagTerm",
+  "version": "0.0.1",
+  "description": "encapsulates a term in a string with html of your choosing",
+  "main": "tagTerm",
+  "scripts": {
+    "test": "node tagTerm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dual1tyx/tagTerm.git"
+  },
+  "keywords": [
+    "bold",
+    "term",
+    "string",
+    "html",
+    "output",
+    "js",
+    "input",
+    "strong"
+  ],
+  "author": "dual1ty <dual1tyx@hotmail.co.uk> (http://dual1ty.me)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/dual1tyx/tagTerm/issues"
+  },
+  "homepage": "https://github.com/dual1tyx/tagTerm#readme"
+}
