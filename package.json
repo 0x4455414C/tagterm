@@ -1,6 +1,6 @@
 {
   "name": "tagterm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "encapsulates a term in a string with html of your choosing",
   "main": "tagterm",
   "scripts": {
@@ -11,14 +11,17 @@
     "url": "git@github.com:dual1tyx/tagterm.git"
   },
   "keywords": [
-    "bold",
     "term",
     "string",
     "html",
+    "tag",
     "output",
-    "js",
     "input",
-    "strong"
+    "js",
+    "strong",
+    "em",
+    "sup",
+    "sub"
   ],
   "author": "dual1ty <dual1tyx@hotmail.co.uk> (http://dual1ty.me)",
   "license": "WTFPL",
